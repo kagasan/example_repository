@@ -1,1 +1,2 @@
 # example_repository
+同じコードを使いまわすならgistよりrepositoryのがよい
